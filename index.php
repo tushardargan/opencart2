@@ -1,5 +1,5 @@
 <?php
-//test// Version
+
 define('VERSION', '3.1.0.0alpha');
 
 // Configuration
