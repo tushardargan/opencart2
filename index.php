@@ -1,5 +1,5 @@
 <?php
-
+/added new commnet
 define('VERSION', '3.1.0.0alpha');
 
 // Configuration
